@@ -336,7 +336,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F10X_MD,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>..\Libraries\CMSIS;..\Libraries\STM32F10x_StdPeriph_Driver\inc;..\User;..\User\Usart;..\User\delay;..\User\sys;..\uCOS-III\uC-CPU;..\uCOS-III\uCOS-III;..\uCOS-III\uC-LIB;..\uCOS-III\UCOS-BSP;..\uCOS-III\UCOS-Config;..\uCOS-III\uCOS-III\Source;..\uCOS-III\uC-CPU\ARM-Cortex-M3\RealView;..\uCOS-III\uC-LIB\Ports\ARM-Cortex-M3\RealView;..\uCOS-III\uCOS-III\Ports\ARM-Cortex-M3\Generic\RealView</IncludePath>
+              <IncludePath>..\Libraries\CMSIS;..\Libraries\STM32F10x_StdPeriph_Driver\inc;..\User;..\User\Usart;..\User\delay;..\User\sys;..\uCOS-III\uC-CPU;..\uCOS-III\uCOS-III;..\uCOS-III\uC-LIB;..\uCOS-III\UCOS-BSP;..\uCOS-III\UCOS-Config;..\uCOS-III\uCOS-III\Source;..\uCOS-III\uC-CPU\ARM-Cortex-M3\RealView;..\uCOS-III\uC-LIB\Ports\ARM-Cortex-M3\RealView;..\uCOS-III\uCOS-III\Ports\ARM-Cortex-M3\Generic\RealView;..\Device\LED</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
